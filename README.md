@@ -4,7 +4,7 @@ BMI stands for Body Mass Index.\
 ![Chart](images/bmi-chart.png)
 
 
-## Installation
+## Screenshots
 
 ![Screenshot1](images/ss1.png)
 ![Screenshot2](images/ss1.png)
